@@ -1,6 +1,6 @@
 <?php
 
-class Prototype
+interface Prototype
 {
-    
+    public function clone();
 }
